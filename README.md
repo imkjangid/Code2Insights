@@ -171,4 +171,4 @@ This field is fundamental for representing and manipulating data, which is often
 **Eigenvalues and eigenvectors**: Used in dimensionality reduction techniques like Principal Component Analysis (PCA) to find the most important features in a dataset.
 </blockquote>
 
-<p style="font-size: 30px;text-align: center;color:#06d;text-transform:uppercase;">Enjoy C<img src="https://www.python.org/static/favicon.ico" width="20" height="20"/>de2Insights!</p>
+<center><h1 style="font-size: 30px;color:#06d;text-transform:uppercase;">ENJOY C<img src="https://www.python.org/static/favicon.ico" width="20" height="20"/>DE2INSIGHTS!</h1></center>
