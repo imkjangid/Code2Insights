@@ -40,14 +40,18 @@ A variety of powerful and well-supported libraries exist for every stage of the 
 > Official Link: https://dask.org
 
 #### Data Visualization
-> **Matplotlib**: A highly flexible and foundational plotting library for creating a wide range of static, animated, and interactive plots.
+> **Matplotlib**: A highly flexible and foundational plotting library for creating a wide range of static, animated, and interactive plots.<br>
+> Official Link: https://matplotlib.org
 
-> **Seaborn**: Built on top of Matplotlib, this library provides a higher-level, aesthetically pleasing interface for creating informative statistical graphics.
+> **Seaborn**: Built on top of Matplotlib, this library provides a higher-level, aesthetically pleasing interface for creating informative statistical graphics.<br>
+> Official Link: https://seaborn.pydata.org
 
-> **Plotly**: An interactive visualization library used to create a wide variety of web-based plots and dashboards. Unlike Matplotlib, it is optimized for web applications.
+> **Plotly**: An interactive visualization library used to create a wide variety of web-based plots and dashboards. Unlike Matplotlib, it is optimized for web applications.<br>
+> Official Link: https://plotly.com
 
 
-> **Bokeh**: Another library for creating interactive plots and data applications for modern web browsers, ideal for visualizing streaming data or creating dashboards.
+> **Bokeh**: Another library for creating interactive plots and data applications for modern web browsers, ideal for visualizing streaming data or creating dashboards.<br>
+> Official Link: https://docs.bokeh.org
 
 #### Inferential and advanced statistics
 > **SciPy**: The scipy.stats module is a comprehensive library for inferential statistics and probability. It offers a wide range of functions, including:
